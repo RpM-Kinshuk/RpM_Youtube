@@ -3,6 +3,7 @@ import json
 import time
 import os
 
+exit(0)
 # set directory to path of script
 abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
