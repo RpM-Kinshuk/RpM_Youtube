@@ -10,7 +10,7 @@ dname = os.path.dirname(abspath)
 os.chdir(dname)
 
 # Discord webhook URL
-webhook_url = "https://discord.com/api/webhooks/1118295987312672939/mdv4SNLEOK3_mYncLvfrN4I9Qo6uGrB3X3F1VWqRQ36tomaFDN-L3S4OnmaZiXWS_Ji8"
+webhook_url = "https://discord.com/api/webhooks/1353443255064203417/U4fFhAre3LXkPkGwOqrb1okf5ElXUl6jSxduRX-q-idoU-zw082qwJ7oCgxsmY1V7mUj"
 
 # JSON file to store the last checked video ID for each channel
 last_video_file = "last_videos.json"
